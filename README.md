@@ -1,56 +1,54 @@
 <div align="center">
 
-<img width="100%" src="YOUR_CUSTOM_BANNER_URL"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=KRISH%20CHHIPA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20UI/UX%20Designer%20•%20AI%20Builder&descAlignY=58"/>
 
 <br/>
 
-# KRISH CHHIPA
-
-### Full Stack Engineer • UI/UX Designer • AI Builder
-
-Building modern digital products, scalable systems and user experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=900&color=8B5CF6&lines=Building+Scalable+Web+Applications;Creating+Beautiful+User+Experiences;Developing+AI+Powered+Products;Turning+Ideas+Into+Reality;Always+Learning+Always+Building" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;MERN+Stack+Developer;UI%2FUX+Designer;AI+Application+Builder;Open+Source+Contributor;Building+Products+For+The+Future" />
+<a href="https://github.com/KRISH-CHHIPA-DEV">
+<img src="https://komarev.com/ghpvc/?username=KRISH-CHHIPA-DEV&style=for-the-badge&color=7C3AED"/>
+</a>
 
 </div>
 
 ---
 
-## About
+# About
 
-I am a Full Stack Developer, UI/UX Designer and Product Builder focused on creating modern, scalable and user-centric digital experiences.
+I am a Full Stack Engineer focused on building modern web applications, scalable backend systems, intuitive user experiences and AI-powered products.
 
-My work combines engineering, design and business thinking to transform ideas into production-ready applications.
+My work combines software engineering, design thinking and product strategy to transform ideas into production-ready solutions.
 
 Currently focused on:
 
-- Full Stack Web Applications
-- AI Powered Products
-- UI/UX Systems Design
-- Cloud Deployments
+- Full Stack Development
+- AI Integrations
+- Product Engineering
+- UI/UX Design
+- Cloud Deployment
 - Performance Optimization
-- Developer Tools
 
 ---
 
-## Current Focus
+# Current Focus
 
 ```txt
-Building:
-├── Production Web Applications
-├── AI Integrations
-├── Modern SaaS Products
+Building
+├── Production Ready Applications
+├── AI Powered Products
+├── SaaS Platforms
 └── Open Source Projects
 
-Learning:
+Learning
 ├── System Design
 ├── Cloud Architecture
 ├── DevOps
 └── Advanced Backend Engineering
 
-Exploring:
+Exploring
 ├── AI Agents
 ├── Product Strategy
 ├── Design Systems
@@ -59,113 +57,11 @@ Exploring:
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Frontend
+<div align="center">
 
-<div align="left">
-
-React • Next.js • TypeScript • JavaScript
-
-Redux Toolkit • Context API
-
-Tailwind CSS • Material UI
-
-Framer Motion • Responsive Design
-
-</div>
-
-### Backend
-
-<div align="left">
-
-Node.js
-
-Express.js
-
-REST APIs
-
-Authentication & Authorization
-
-Socket.IO
-
-MVC Architecture
-
-</div>
-
-### Databases
-
-<div align="left">
-
-MongoDB
-
-PostgreSQL
-
-MySQL
-
-Redis
-
-Prisma ORM
-
-</div>
-
-### Cloud & Deployment
-
-<div align="left">
-
-AWS
-
-Vercel
-
-Netlify
-
-Render
-
-GitHub Actions
-
-CI/CD
-
-VPS Hosting
-
-</div>
-
-### AI & GenAI
-
-<div align="left">
-
-LangChain
-
-Prompt Engineering
-
-OpenRouter
-
-LLM Integration
-
-AI Chatbots
-
-Workflow Automation
-
-</div>
-
-### Design
-
-<div align="left">
-
-Figma
-
-Adobe XD
-
-Spline
-
-Photoshop
-
-Illustrator
-
-Design Systems
-
-Wireframing
-
-Prototyping
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgresql,mysql,redis,aws,docker,figma,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -173,159 +69,53 @@ Prototyping
 
 # Featured Projects
 
-## PolyCode
+### PolyCode
 
-A modern placement ecosystem designed to help students prepare, practice and grow.
+Modern Placement Ecosystem designed for students and developers.
 
-Tech Stack:
+**Stack**
 
-React
-
-TypeScript
-
-MongoDB
-
-Express
-
-CodeMirror
-
-Features:
-
-- Coding Environment
-- Placement Preparation
-- Modern UI
-- Scalable Architecture
+React • TypeScript • MongoDB • Express • CodeMirror
 
 ---
 
-## Conversa
+### Conversa
 
-Real-time communication platform built with modern web technologies.
+Real-Time Communication Platform built using modern web technologies.
 
-Tech Stack:
+**Stack**
 
-React
-
-Node.js
-
-MongoDB
-
-Socket.IO
-
-Features:
-
-- Real-Time Messaging
-- Authentication
-- Live Communication
-- Responsive Experience
+React • Node.js • MongoDB • Socket.IO
 
 ---
 
-## InkSight E-Commerce Platform
+### InkSight E-Commerce
 
-Production-grade e-commerce platform developed for a publication business.
+Production-grade E-Commerce Platform built for a publication business.
 
-Tech Stack:
+**Stack**
 
-React
-
-Node.js
-
-PostgreSQL
-
-Prisma ORM
-
-Redis
-
-Features:
-
-- Product Management
-- Order Management
-- High Performance Architecture
-- Optimized User Experience
+React • PostgreSQL • Prisma • Redis • Express
 
 ---
 
-## Green Bharat
+### Green Bharat
 
-Tree plantation and environmental management platform.
+Environmental Management Platform.
 
-Role:
+**Role**
 
-Team Lead
-
-Full Stack Developer
-
-UI/UX Designer
-
-Responsibilities:
-
-- Team Management
-- Product Design
-- Application Development
-- Project Delivery
+Team Lead • Full Stack Developer • UI/UX Designer
 
 ---
 
-## Social Bharat
+### Social Bharat
 
 Community-focused social platform.
 
-Role:
+**Role**
 
-UI/UX Designer
-
-UX Researcher
-
-Highlights:
-
-- User Research
-- Wireframes
-- Design System
-- Interactive Prototypes
-- Mobile Experience
-
----
-
-# Professional Experience
-
-## InkSight Publication LLP
-
-Full Stack Developer & Technical Support
-
-Developing and managing production-grade e-commerce systems, server deployments and technical infrastructure.
-
----
-
-## C-DAC Chennai
-
-Technical Assistant
-
-Worked on national-level examination infrastructure and technical operations.
-
----
-
-## Netparam Technology
-
-Intern & Team Lead
-
-Led product development initiatives and managed cross-functional collaboration.
-
----
-
-# Leadership
-
-Tech Bizz Club Head
-
-Green Bharat Team Leader
-
-Publication Club Executive
-
-Publication Club Convener
-
-Technical Coordinator
-
-Event Organizer
+UI/UX Designer • UX Researcher
 
 ---
 
@@ -333,9 +123,9 @@ Event Organizer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=liveidiot032-coder&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KRISH-CHHIPA-DEV&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liveidiot032-coder&layout=compact&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISH-CHHIPA-DEV&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -343,17 +133,17 @@ Event Organizer
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=liveidiot032-coder&theme=transparent"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KRISH-CHHIPA-DEV&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Activity Graph
+# Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=liveidiot032-coder&bg_color=0d1117&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KRISH-CHHIPA-DEV&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -363,7 +153,7 @@ Event Organizer
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=liveidiot032-coder&theme=flat&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KRISH-CHHIPA-DEV&theme=tokyonight&no-frame=true&column=4"/>
 
 </div>
 
@@ -371,22 +161,30 @@ Event Organizer
 
 # Connect
 
-LinkedIn
+<div align="center">
 
-https://linkedin.com/in/krishchhipa
+<a href="mailto:krishchhipa4@gmail.com">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-GitHub
+<a href="https://linkedin.com/in/krishchhipa">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-https://github.com/liveidiot032-coder
+<a href="https://github.com/KRISH-CHHIPA-DEV">
+<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Email
-
-krishchhipa4@gmail.com
+</div>
 
 ---
 
 <div align="center">
 
-Building products that are useful, scalable and impactful.
+### Building Products That People Love To Use
+
+*"Great products are built where engineering, design and innovation meet."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
